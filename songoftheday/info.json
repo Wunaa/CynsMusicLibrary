@@ -1,1 +1,5 @@
-
+{
+    "song_title": "Song of the Day Title",
+    "artist": "Artist Name",
+    "song_url": "song_of_the_day.mp3"
+}
