@@ -1,4 +1,5 @@
 {
   "version": "1.0.1",
-  "update_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/content.pck"
+  "content_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/content.pck",
+  "base_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/SonicRunnersReborn.pck"
 }
