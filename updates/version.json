@@ -3,6 +3,7 @@
   "content_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/content.pck",
   "base_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/SonicRunnersReborn.pck",
   "notes": [
-    { "text": "This is a test update", "color": "red" }
+    { "text": "This is a test update", "color": "red" },
+    { "text": "Showcasing this update system :P", "color": "yellow" }
   ]
 }
