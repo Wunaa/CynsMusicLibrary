@@ -1,0 +1,12 @@
+[
+  {
+    "title": "New Character Released!",
+    "description": "Play as Shadow in the latest update!",
+    "image_url": "https://yourdomain.github.io/news/shadow.png"
+  },
+  {
+    "title": "Update 1.1.0",
+    "description": "Bug fixes, improved performance, and more levels!",
+    "image_url": "https://yourdomain.github.io/news/update.png"
+  }
+]
