@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
   "content_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/content.pck",
-  "base_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/SonicRunnersReborn.pck"
+  "base_url": "https://github.com/Wunaa/SonicRunnersReborn/raw/refs/heads/main/updates/SonicRunnersReborn.pck",
+  "notes": "— Fixed title screen crash\n— Improved loading time\n— Added debug menu toggle"
 }
