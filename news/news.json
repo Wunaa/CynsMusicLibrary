@@ -1,17 +1,14 @@
 [
   {
-    "title": "New Character Released!",
-    "description": "Play as Shadow in the latest update!",
-    "image_url": "https://cdn.discordapp.com/attachments/1346014302712238124/1370310229622788176/hq720.png?ex=681f0859&is=681db6d9&hm=0df2b85a7f8a56888f731cc8be45918153c596be8415cf4e6de66a9de88a996c&"
+    "id": "shadow-release",
+    "title": "New Character: Shadow!",
+    "type": "image",
+    "image_url": "https://yourdomain.github.io/notifications/shadow.png"
   },
   {
-    "title": "HI RANBINNNN!!!!!",
-    "description": "As you can see I got side tracked again",
-    "image_url": "https://media.discordapp.net/attachments/1258901709514739764/1370148090144755823/IMG_7214.jpg?ex=681e7158&is=681d1fd8&hm=19bc42aea4e2e24e9abeb3b21f2a2ad3cfe860ef6f137765085abfb91a21fbcf&=&format=webp&width=678&height=904"
-  },
-  {
-    "title": "Update 1.1.0",
-    "description": "Bug fixes, improved performance, and more levels!",
-    "image_url": "https://retrocdn.net/images/e/eb/Sonic_Runners_-_Nexus_5_title_screen.png"
+    "id": "bugfix-update",
+    "title": "Bug Fixes in 1.1.1",
+    "type": "text",
+    "text": "We’ve fixed major bugs and optimized performance!"
   }
 ]
